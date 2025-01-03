@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ORDER-SUMMARY-CARD
 This project is a responsive Order Summary Card component, built using HTML and CSS. It is designed as part of a Frontend Mentor challenge.
 
